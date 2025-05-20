@@ -1,0 +1,6 @@
+License Plate Detection
+
+This project uses YOLOv8 and transfer learning to build a license plate detection model, with additional fine-tuning for low-light conditions using data augmentation with Opencv.
+
+
+
