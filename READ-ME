@@ -2,5 +2,13 @@ License Plate Detection
 
 This project uses YOLOv8 and transfer learning to build a license plate detection model, with additional fine-tuning for low-light conditions using data augmentation with Opencv.
 
+SCRIPTS
+AUGMENT.PY:
+- to create subset of 2000 images from origonal dataset and make half (1000) of them darker for fine tuning purposes
 
+LPdetection:
+- Simple UI with streamlit to engage with the final model... Upload an image and get a prediction.
+
+COPYDATA.PY:
+- Automate movement of data through directories.
 
