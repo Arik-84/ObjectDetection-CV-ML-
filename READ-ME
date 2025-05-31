@@ -7,7 +7,7 @@ AUGMENT.PY:
 - to create subset of 2000 images from original dataset and make half (1000) of them darker for fine tuning purposes
 
 LPDETECTION.PY:
-- Simple UI with streamlit to engage with the final model... Upload an image and get a prediction.
+- Simple UI with streamlit to see details about and engage with the final model... Upload an image and get a prediction.
 
 COPYDATA.PY:
 - Automate movement of data through directories.
