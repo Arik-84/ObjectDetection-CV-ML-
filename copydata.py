@@ -10,7 +10,7 @@ base_path = "."
 combined_images = os.path.join(base_path, "train_combined/images")
 combined_labels = os.path.join(base_path, "train_combined/labels")
 
-# Create output dirs if they don't exist
+# Create output dirs
 os.makedirs(combined_images, exist_ok=True)
 os.makedirs(combined_labels, exist_ok=True)
 
